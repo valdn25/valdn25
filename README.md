@@ -3,7 +3,6 @@ Welcome to my Github! I am studying Computer Engineering at Boston University
 
 ## 🛠️ Skills & Tools
 - **Languages:** C/C++, Python, Java
-- **Design & CAD:** KiCad (PCB Layout), Onshape
 
 ---
 
